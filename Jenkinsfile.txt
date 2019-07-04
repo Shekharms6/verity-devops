@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-		
+		// auto build
 		
 		// *****ALL CODE TO BE ADDED BELOW THIS COMMENT*****
 		
